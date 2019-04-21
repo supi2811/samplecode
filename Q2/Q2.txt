@@ -1,0 +1,2 @@
+2. Read a JSON file, change some values and write the json in to new file.
+EG: name : 'Wipro' to name : 'Wipro Ltd'

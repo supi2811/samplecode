@@ -1,0 +1,2 @@
+Make a GET call. Assert the response status code and userId
+Test data - https://jsonplaceholder.typicode.com/posts/1  
